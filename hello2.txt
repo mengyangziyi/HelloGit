@@ -1,6 +1,0 @@
-hello Git!
-
-I want to change something
-
-
-Assign
